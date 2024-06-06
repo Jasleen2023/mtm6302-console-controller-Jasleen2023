@@ -17,11 +17,5 @@ Step 4: use command
 3. git push origin main
 
 
-![image](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/b5abac40-6f92-4de5-adfc-4d54921500cf)
- ![jas](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/9f70be78-5989-4055-ac79-92819c1ee35e)
-
-
-
-
-
+![Capture new](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/66b3559c-17d0-4482-bf71-1f7325b64112)
 
