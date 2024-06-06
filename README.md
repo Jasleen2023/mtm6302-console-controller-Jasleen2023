@@ -18,4 +18,5 @@ Step 4: use command
 
 
 ![Capture new](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/66b3559c-17d0-4482-bf71-1f7325b64112)
+![jas](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/c99f4599-9721-4841-93a3-23d2b4f98f7b)
 
