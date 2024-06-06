@@ -18,7 +18,8 @@ Step 4: use command
 
 
 ![image](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/b5abac40-6f92-4de5-adfc-4d54921500cf)
- ![jasleen screenshot 1](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/fd1e9291-6003-4221-9e03-cbb07b0c25ec)
+ ![jasleen screenshot 1](https://github.com/Jasleen2023/mtm6302-console-controller-Jasleen2023/assets/145064057/65b75231-375d-466a-b051-92a404cb6b76)
+
 
 
 
